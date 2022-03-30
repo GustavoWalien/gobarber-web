@@ -1,4 +1,4 @@
-# GoBarber WEB 1.0 🚀
+# GoBarber Web 💈
 
 <div align="center">
   <img alt="GoBarber" title="GoBarber" src="https://user-images.githubusercontent.com/19844596/160872755-09b5ddc2-1aa4-4726-8b2d-85a3fe480701.png" />
@@ -6,7 +6,7 @@
 
 ## 📚 Informações sobre o projeto
 
-* Esse projeto foi desenvolvido durante o bootcamp da Rocketseat! 
+* O projeto GoBarber é uma aplicação que visa conectar barbeiros e cabeleireiros com seus clientes, dessa forma é possível realizar agendamentos de acordo com os dias e horários disponíveis do profissional.
 
 &nbsp;
 
