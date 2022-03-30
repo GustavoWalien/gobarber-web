@@ -15,6 +15,7 @@ import { useAuth } from '../../hooks/auth';
 import getValidationErrors from '../../utils/getValidationErrors';
 import Input from '../../components/Input';
 import Button from '../../components/Button';
+import imgUserDefault from '../../assets/user-default.png';
 
 import { Container, Content, AvatarInput } from './styles';
 
@@ -152,7 +153,10 @@ const Profile: React.FC = () => {
           onSubmit={handleSubmit}
         >
           <AvatarInput>
-            <img src={user.avatar_url} alt={user.name} />
+            <img
+              src={user.avatar_url === null ? imgUserDefault : user.avatar_url}
+              alt={user.name}
+            />
             <label htmlFor="avatar">
               <FiCamera />
               <input type="file" id="avatar" onChange={handleAvatarChange} />

@@ -22,6 +22,7 @@ import {
 } from './styles';
 
 import logoImg from '../../assets/logo.svg';
+import imgUserDefault from '../../assets/user-default.png';
 import { useAuth } from '../../hooks/auth';
 
 import api from '../../services/api';
@@ -144,7 +145,10 @@ const Dashboard: React.FC = () => {
           <img src={logoImg} alt="GoBarber" />
 
           <Profile>
-            <img src={user.avatar_url} alt={user.name} />
+            <img
+              src={user.avatar_url === null ? imgUserDefault : user.avatar_url}
+              alt={user.name}
+            />
             <div>
               <span>Bem-vindo,</span>
               <Link to="/profile">
