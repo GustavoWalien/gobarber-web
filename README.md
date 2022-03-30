@@ -19,7 +19,7 @@
 
 ## 🛠️ Tecnologias/Ferramentas ultilizadas
 
-* [React](https://pt-br.reactjs.org/E)
+* [React](https://pt-br.reactjs.org/)
 
 &nbsp;
 
