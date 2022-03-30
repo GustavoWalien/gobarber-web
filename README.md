@@ -50,4 +50,4 @@ Este projeto está licenciado sob a Licença MIT [Link](https://github.com/Gusta
 
 ---
 
-<p align="center">Feito com 💙 por Gustavo Silva</p>
+<p align="center">Powered by Gustavo "Walien" Silva</p>
