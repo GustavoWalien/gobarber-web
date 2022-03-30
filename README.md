@@ -51,6 +51,12 @@ $ yarn start
 
 &nbsp;
 
+## ✔️ Pré-Requisito
+
+* É necessário estar executando toda a estrutura Back-end para o funcionamento da aplicação. Acesse o projeto de back-end para saber mais detalhes. [Clique aqui](https://github.com/GustavoWalien/gobarber-backend)
+
+&nbsp;
+
 ## 📝 Licença
 
 Este projeto está licenciado sob a Licença MIT. Acesse o arquivo de [LICENSE](https://github.com/GustavoWalien/gobarber-web/blob/master/LICENSE) para obter mais detalhes.
