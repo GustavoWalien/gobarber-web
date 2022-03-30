@@ -46,7 +46,7 @@ $ yarn start
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a Licença MIT.
+Este projeto está licenciado sob a Licença MIT [Link](https://github.com/GustavoWalien/gobarber-web/blob/master/LICENSE).
 
 ---
 
