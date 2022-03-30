@@ -53,7 +53,7 @@ $ yarn start
 
 ## ✔️ Pré-Requisito
 
-* É necessário estar executando toda a estrutura Back-end para o funcionamento da aplicação. Acesse o projeto de back-end para saber mais detalhes. [Clique aqui](https://github.com/GustavoWalien/gobarber-backend)
+* É necessário estar executando toda a estrutura Back-end para o funcionamento da aplicação. Acesse o projeto de back-end para saber mais detalhes. [Clique aqui](https://github.com/GustavoWalien/gobarber-backend).
 
 &nbsp;
 
