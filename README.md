@@ -1,4 +1,4 @@
-# GoBarber Web 💈
+# 💈 GoBarber Web 
 
 ![gobarber-web](https://user-images.githubusercontent.com/19844596/160930393-b1d75e34-4ae4-42f3-854e-7917309a4b71.png)
 
