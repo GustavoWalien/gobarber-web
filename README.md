@@ -12,17 +12,24 @@
 
 ## 💻 Funcionalidades
 
-* Banco de dados
-* Sistema completo de barbearia
+* Criação de usuário (Cliente da barbearia).
+* Cadastro de profissional (Barbeiro ou Cabeleireiro).
+* Sistema de Login, autenticação e validação do usuário com bando de dados.
+* Agendamento de horário.
 
 &nbsp;
 
 ## 🛠️ Tecnologias ultilizadas
 
-* [React](https://pt-br.reactjs.org/)
+* [React JS](https://pt-br.reactjs.org/)
+* [Mongo DB](https://www.mongodb.com/pt-br)
+* [Redis](https://redis.io/)
+* [PostgreSQL](https://www.postgresql.org/)
+* [Styled Components](https://styled-components.com/)
+* [Node JS](https://nodejs.org/en/)
+* [Docker](https://www.docker.com/)
 
 &nbsp;
-
 
 ## ⚙️ Instalação
 ```
@@ -46,7 +53,7 @@ $ yarn start
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a Licença MIT [Link](https://github.com/GustavoWalien/gobarber-web/blob/master/LICENSE).
+Este projeto está licenciado sob a Licença MIT. Acesse o arquivo de [LICENSE](https://github.com/GustavoWalien/gobarber-web/blob/master/LICENSE) para obter mais detalhes.
 
 ---
 
