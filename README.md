@@ -1,46 +1,56 @@
-# Getting Started with Create React App
+# GoBarber Web 💈
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  <img alt="GoBarber" title="GoBarber" src="https://user-images.githubusercontent.com/19844596/160872755-09b5ddc2-1aa4-4726-8b2d-85a3fe480701.png" />
+</div>
 
-## Available Scripts
+## 📚 Sobre
 
-In the project directory, you can run:
+* O projeto GoBarber é uma aplicação que visa conectar barbeiros e cabeleireiros com seus clientes, dessa forma é possível realizar agendamentos de acordo com os dias e horários disponíveis do profissional.
 
-### `yarn start`
+&nbsp;
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 💻 Funcionalidades
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* Criação de usuário.
+* Cadastro de profissional.
+* Sistema de Login, autenticação e validação do usuário com bando de dados.
+* Agendamento de horário.
 
-### `yarn test`
+&nbsp;
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tecnologias ultilizadas
 
-### `yarn build`
+* [React JS](https://pt-br.reactjs.org/)
+* [Mongo DB](https://www.mongodb.com/pt-br)
+* [Redis](https://redis.io/)
+* [PostgreSQL](https://www.postgresql.org/)
+* [Styled Components](https://styled-components.com/)
+* [Node JS](https://nodejs.org/en/)
+* [Docker](https://www.docker.com/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+&nbsp;
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ⚙️ Instalação
+```
+# Abra um terminal e copie este repositório com o comando
+$ git clone https://github.com/GustavoWalien/gobarber-web.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+# Acesse a pasta da aplicação
+$ cd gobarber-web
 
-### `yarn eject`
+# Instale as dependências
+$ yarn
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Inicie a aplicação
+$ yarn start
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+&nbsp;
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 📝 Licença
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Este projeto está licenciado sob a Licença MIT. Acesse o arquivo de [LICENSE](https://github.com/GustavoWalien/gobarber-web/blob/master/LICENSE) para obter mais detalhes.
