@@ -1,7 +1,7 @@
 # GoBarber WEB
 
 <div align="center">
-  <img alt="GoBarber" title="#delicinha" src="https://user-images.githubusercontent.com/19844596/160868902-2def3506-5abb-4b99-9ea5-4d8dbfcffc8e.png" />
+  <img alt="GoBarber" title="GoBarber" src="https://user-images.githubusercontent.com/19844596/160868902-2def3506-5abb-4b99-9ea5-4d8dbfcffc8e.png" width="450px" />
 </div>
 
 <h4 align="center">
