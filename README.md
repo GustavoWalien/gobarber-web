@@ -8,16 +8,12 @@
 
 * O projeto GoBarber é uma aplicação que visa conectar barbeiros e cabeleireiros com seus clientes, dessa forma é possível realizar agendamentos de acordo com os dias e horários disponíveis do profissional.
 
-&nbsp;
-
 ## 💻 Funcionalidades
 
 * Criação de usuário.
 * Cadastro de profissional.
 * Sistema de Login, autenticação e validação do usuário com bando de dados.
 * Agendamento de horário.
-
-&nbsp;
 
 ## 🛠️ Tecnologias ultilizadas
 
@@ -28,8 +24,6 @@
 * [Styled Components](https://styled-components.com/)
 * [Node JS](https://nodejs.org/en/)
 * [Docker](https://www.docker.com/)
-
-&nbsp;
 
 ## ⚙️ Instalação
 ```
@@ -49,13 +43,15 @@ $ yarn start
 
 ```
 
-&nbsp;
 
 ## ✔️ Pré-Requisito
 
 * É necessário estar executando toda a estrutura Back-end para o funcionamento da aplicação. Acesse o projeto de back-end para saber mais detalhes. [Clique aqui](https://github.com/GustavoWalien/gobarber-backend).
 
-&nbsp;
+## 🖥️ Projetos relacionados
+
+* [Projeto Mobile](https://github.com/GustavoWalien/gobarber-mobile)
+* [Back-end](https://github.com/GustavoWalien/gobarber-backend)
 
 ## 📝 Licença
 
