@@ -1,7 +1,7 @@
 # GoBarber WEB
 
 <div align="center">
-   ![logo-gobarber](https://user-images.githubusercontent.com/19844596/160866248-90ffec24-83f5-4fed-9ebe-11e6c2992c7f.png)
+  <img alt="GoBarber" title="#delicinha" src="https://user-images.githubusercontent.com/19844596/160868902-2def3506-5abb-4b99-9ea5-4d8dbfcffc8e.png" />
 </div>
 
 <h4 align="center">
