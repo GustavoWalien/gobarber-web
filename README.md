@@ -1,8 +1,6 @@
 # GoBarber Web 💈
 
-<div align="center">
-  <img alt="GoBarber" title="GoBarber" src="https://user-images.githubusercontent.com/19844596/160872755-09b5ddc2-1aa4-4726-8b2d-85a3fe480701.png" />
-</div>
+![gobarber-web](https://user-images.githubusercontent.com/19844596/160930393-b1d75e34-4ae4-42f3-854e-7917309a4b71.png)
 
 ## 📚 Sobre
 
